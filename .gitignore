@@ -1,0 +1,7 @@
+classes
+.~lock*
+.settings
+target
+.classpath
+.project
+.gitk-tmp*
